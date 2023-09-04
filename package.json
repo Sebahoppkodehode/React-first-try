@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@babel/plugin-syntax-decorators": "^7.22.10"
+  }
+}
